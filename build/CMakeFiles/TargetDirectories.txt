@@ -1,0 +1,5 @@
+/home/lesley/Documents/Personal/cmake-setup/build/CMakeFiles/template.dir
+/home/lesley/Documents/Personal/cmake-setup/build/CMakeFiles/package.dir
+/home/lesley/Documents/Personal/cmake-setup/build/CMakeFiles/package_source.dir
+/home/lesley/Documents/Personal/cmake-setup/build/CMakeFiles/edit_cache.dir
+/home/lesley/Documents/Personal/cmake-setup/build/CMakeFiles/rebuild_cache.dir
