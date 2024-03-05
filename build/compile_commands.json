@@ -1,7 +1,0 @@
-[
-{
-  "directory": "/home/lesley/Documents/Personal/templatecmake/build",
-  "command": "/usr/bin/c++    -o CMakeFiles/template.dir/src/main.cpp.o -c /home/lesley/Documents/Personal/templatecmake/src/main.cpp",
-  "file": "/home/lesley/Documents/Personal/templatecmake/src/main.cpp"
-}
-]
